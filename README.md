@@ -2,12 +2,12 @@
 
 Este é um programa em Java que solicita dois números inteiros e calcula a soma de todos os números entre eles, inclusive os próprios valores. O programa também lida automaticamente com a ordem dos números, invertendo-os se necessário.
 
-🧠 Conceitos Utilizados
-Estrutura de repetição do...while
+## 🧠 Conceitos Utilizados
+- Estrutura de repetição do...while
 
-Condicional if para troca de valores
+- Condicional if para troca de valores
 
-Leitura de dados com Scanner
+- Leitura de dados com Scanner
 
 ``` bash
 💡 Exemplo de Uso
