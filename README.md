@@ -1,4 +1,4 @@
-# SomaNumeros
+# SomaNumeroEntreElesInverso
 
 Este é um programa em Java que solicita dois números inteiros e calcula a soma de todos os números entre eles, inclusive os próprios valores. O programa também lida automaticamente com a ordem dos números, invertendo-os se necessário.
 
